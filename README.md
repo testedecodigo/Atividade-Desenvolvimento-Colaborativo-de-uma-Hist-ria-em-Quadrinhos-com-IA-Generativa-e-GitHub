@@ -3,7 +3,7 @@ Integrante(s) do grupo: Renan de Sousa Silva
 Nome do grupo: Grupo de Informativos sobre o Mosquito Aedes aegypti.
 
 Tema da história em quadrinhos: Guia prático sobre o combate e prevenção do mosquito Aedes aegypti.
-  
+  ESTRUTURA COM A DESCRIÇÃO DE CADA CENA:
   Um garoto em casa lendo despreocupadamente sobre o mosquito Aedes aegypti (CENA 1 - Um Quadro). 
   De repente, ele  recebe uma notificação em seu celular, abre a mensagem e vê que é uma mensagem de seu amigo que informa que está com dengue (CENA 2 - Um Quadro). 
   Ele se espanta, pois é algo que ele estava lendo sobre naquele momento. Ele pergunta se seu amigo está bem, que em seguida o despreocupa pois ele está sendo devidamente tratado em casa com repouso e hidratação (CENA 3 - Um Quadro). 
