@@ -1,4 +1,4 @@
-Integrante(s) do grupo: Renan de Sousa Silva /n
+Integrante(s) do grupo: Renan de Sousa Silva
 
 Nome do grupo: Grupo de Informativos sobre o Mosquito Aedes aegypti.
 
