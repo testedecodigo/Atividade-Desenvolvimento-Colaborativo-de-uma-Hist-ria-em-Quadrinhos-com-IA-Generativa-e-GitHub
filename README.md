@@ -3,6 +3,7 @@ Renan de Sousa Silva;
 Brendo da Silva Cravo Bueno Sotele;
 Estevão Tenorio Gegenheimer;
 Fernando Leão Gabeira;
+Lucas Jin-Ho Lima Soares;
 
 Nome do grupo: Grupo de Informativos sobre o Mosquito Aedes aegypti.
 
