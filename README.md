@@ -1,4 +1,7 @@
-Integrante(s) do grupo: Renan de Sousa Silva
+Integrante(s) do grupo:
+Renan de Sousa Silva
+brendo da silva cravo bueno sotele
+Estevão Tenorio Gegenheimer
 
 Nome do grupo: Grupo de Informativos sobre o Mosquito Aedes aegypti.
 
